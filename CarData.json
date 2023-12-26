@@ -150,7 +150,6 @@
         "models": {
             "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
             "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2009", "mileage": "25km/l", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "#"}
+            "Prius": { "launchDate": "2009", "mileage": "25km/l", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "#" }
         }
     }
-                        
