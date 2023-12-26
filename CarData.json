@@ -145,4 +145,4 @@
             "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
             "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
-    },
+    };
