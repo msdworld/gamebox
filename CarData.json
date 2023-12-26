@@ -1,5 +1,5 @@
 
-{
+const carData = {
   "Toyota": {
     "models": {
       "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
