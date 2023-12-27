@@ -1,23 +1,23 @@
 {
     "Toyota": {
         "models": {
-            "Camry": { "Price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Corolla": { "Price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "Price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "rice": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Toyota Kirloskar India": {
         "models": {
-            "Camry": { "Price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "Price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "Price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Mahindra": {
         "models": {
-            "Camry": { "Price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "Price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "Price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Hyundai": {
