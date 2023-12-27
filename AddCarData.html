@@ -110,7 +110,7 @@
 
     <script>
         // Fetch existing brands from JSON file
-        fetch('https://github.com/msdworld/gamebox/raw/main/CarData.json')
+        fetch('/CarData.json')
             .then(response => response.json())
             .then(data => {
                 const brandSelect = document.getElementById('brand');
