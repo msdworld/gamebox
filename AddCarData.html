@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Car Model</title>
+    <style type="text/css">
+    /* Add this CSS code to your existing styles or create a new style block */
+    
+    body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 20px;
+    padding: 0;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    }
+    
+    .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+    text-align: center;
+    color: #333;
+    }
+    
+    form {
+    max-width: 400px;
+    margin: 0 auto;
+    }
+    
+    label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    }
+    
+    select,
+    input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    }
+    
+    button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    }
+    
+    button:hover {
+    background-color: #0056b3;
+    }
+    
+    /* Optional: Add more styling for better aesthetics */
+    
+    
+    </style>
+</head>
+<body>
+
+    <h1>Add Car Model</h1>
+
+    <form id="addModelForm" action="https://github.com/msdworld/gamebox/blob/main/AddCarData.php" method="post">
+        <label for="brand">Brand:</label>
+        <select id="brand" name="brand" required>
+        <option>Select Car Company</option></select>
+
+        <label for="modelName">Model Name:</label>
+        <input type="text" id="modelName" name="modelName" required>
+        
+        <label for="price">Price:</label>
+        <input type="text" id="price" name="price" required>
+
+        <label for="launchDate">Launch Date:</label>
+        <input type="text" id="launchDate" name="launchDate" required>
+        
+        <label for="mileage">Mileage:</label>
+        <input type="text" id="mileage" name="mileage" required>
+        
+        <label for="capacity">Capacity:</label>
+        <input type="text" id="capacity" name="capacity" required>
+        
+        <label for="fuelType">Fuel:</label>
+        <input type="text" id="fuelType" name="fuelType" required>
+        
+        <label for="wheelType">Wheels:</label>
+        <input type="text" id="wheelType" name="wheelType" required>
+        
+        <label for="postLink">Post Link:</label>
+        <input type="text" id="postLink" name="postLink" required>
+
+        <button type="submit">Add Car Model</button>
+    </form>
+
+    <script>
+        // Fetch existing brands from JSON file
+        fetch('https://github.com/msdworld/gamebox/raw/main/CarData.json')
+            .then(response => response.json())
+            .then(data => {
+                const brandSelect = document.getElementById('brand');
+
+                // Populate brand options dynamically
+                Object.keys(data).forEach(brand => {
+                    const option = document.createElement('option');
+                    option.value = brand;
+                    option.textContent = brand;
+                    brandSelect.appendChild(option);
+                });
+            })
+            .catch(error => console.error('Error fetching brands:', error));
+
+        document.getElementById('addModelForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            // Retrieve form data
+            const brand = document.getElementById('brand').value;
+            const modelName = document.getElementById('modelName').value;
+            const price = document.getElementById('price').value;
+            const launchDate = document.getElementById('launchDate').value;
+            const mileage = document.getElementById('mileage').value;
+            const capacity = document.getElementById('capacity').value;
+            const fuelType = document.getElementById('fuelType').value;
+            const wheelType = document.getElementById('wheelType').value;
+            const postLink = document.getElementById('postLink').value;
+
+            // Check if the form fields are not empty
+            if (!brand || !modelName || !price || !launchDate || !mileage || !capacity || !fuelType || !wheelType || !postLink) {
+                alert('Please fill in all the fields.');
+                return;
+            }
+
+            // Use fetch API to submit form data to the PHP script
+            fetch('AddCarData.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: `brand=${encodeURIComponent(brand)}&modelName=${encodeURIComponent(modelName)}&launchDate=${encodeURIComponent(launchDate)}&mileage=${encodeURIComponent(mileage)}`,
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert(`Added ${modelName} to ${brand}`);
+                } else {
+                    alert(data.error || 'Error adding car model');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while adding the car model');
+            });
+        });
+    </script>
+
+</body>
+      </html>
+      
