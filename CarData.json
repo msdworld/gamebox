@@ -1,8 +1,8 @@
 {
     "Toyota": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Urban Cruiser Hyryder": { "price": "11 Lakh", "launchDate": "September 2022", "mileage": "25 km/l", "capacity": "5 Seater", "fuelType": "Petrol,Diesel,CNG", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Innova Crysta": { "price": "19 Lakh", "launchDate": "May 2016", "mileage": "26 km/l", "capacity": "8 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
