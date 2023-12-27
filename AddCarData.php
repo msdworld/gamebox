@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         ];
 
         // Write updated data back to the JSON file using cURL
-        $ch = curl_init('https://github.com/msdworld/gamebox/raw/main/CarData.json');
+        $ch = curl_init('/CarData.json');
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PUT');
         curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
