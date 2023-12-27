@@ -2,7 +2,7 @@
     "Toyota": {
         "models": {
             "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Corolla": { "rice": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
             "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
@@ -22,135 +22,135 @@
     },
     "Hyundai": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Maruti Suzuki": {
         "models": {
-            "Maruti Invicto Zeta Plus 7 STR": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Maruti Invicto Zeta Plus 8 STR": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Maruti Invicto Alpha Plus 7 STR": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Maruti Invicto Zeta Plus 7 STR": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Maruti Invicto Zeta Plus 8 STR": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Maruti Invicto Alpha Plus 7 STR": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Ashok Leyland": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Bajaj": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Honda": {
         "models": {
-            "Civic": { "launchDate": "1955", "mileage": "20 km/l", "fuelType": "Petrol", "wheelType": "6-wheel" },
-            "Accord": { "launchDate": "1976", "mileage": "18 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "CR-V": { "launchDate": "1995", "mileage": "24 km/l", "fuelType": "CNG", "wheelType": "4-wheel" }
+            "Civic": { "price": "10 Lakh", "launchDate": "1955", "mileage": "20 km/l", "fuelType": "Petrol", "wheelType": "6-wheel" },
+            "Accord": { "price": "10 Lakh", "launchDate": "1976", "mileage": "18 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "CR-V": { "price": "10 Lakh", "launchDate": "1995", "mileage": "24 km/l", "fuelType": "CNG", "wheelType": "4-wheel" }
         }
     },
     "Honda Cars India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Renault": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Renault India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Force Motors": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "TVS": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Hindustan Motors": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "MG": {
         "models": {
-            "MG ZS EV": { "launchDate": "2023", "mileage": "461KM", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "Electric", "wheelType": "6-wheel" }
+            "MG ZS EV": { "price": "10 Lakh", "launchDate": "2023", "mileage": "461KM", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "Electric", "wheelType": "6-wheel" }
         }
     },
     "MG Motor India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Nissan Motor India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Premier": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Tata Motors": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "General Motors India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Kia": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "fuelType": "CNG", "wheelType": "6-wheel" }
         }
     },
     "Daimler India": {
         "models": {
-            "Camry": { "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "launchDate": "2009", "mileage": "25km/l", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "#"}
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "fuelType": "Petrol", "wheelType": "4-wheel" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2009", "mileage": "25km/l", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "#"}
         }
     }
 }
