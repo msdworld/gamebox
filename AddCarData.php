@@ -11,15 +11,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $wheelType = $_POST['wheelType'];
     $postLink = $_POST['postLink'];
 
-    // Read existing JSON file using cURL
-    $jsonFileUrl = 'https://raw.githubusercontent.com/msdworld/gamebox/main/CarData.json';
-    $ch = curl_init($jsonFileUrl);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    $jsonContent = curl_exec($ch);
-    curl_close($ch);
-
-    // Decode existing JSON content
-    $currentData = json_decode($jsonContent, true);
+    // Read existing JSON file
+    $jsonFile = '/CarData.json';
+    $currentData = json_decode(file_get_contents($jsonFile), true);
 
     // Add new data
     if (!isset($currentData[$brand]['models'][$modelName])) {
@@ -33,14 +27,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             'postLink' => $postLink
         ];
 
-        // Write updated data back to the JSON file using cURL
-        $ch = curl_init('/CarData.json');
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PUT');
-        curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($currentData, JSON_PRETTY_PRINT));
-        $result = curl_exec($ch);
-        curl_close($ch);
+        // Write updated data back to the JSON file
+        file_put_contents($jsonFile, json_encode($currentData, JSON_PRETTY_PRINT));
 
         echo json_encode(['success' => true]);
     } else {
