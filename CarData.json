@@ -43,113 +43,113 @@
     },
     "Bajaj": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Honda": {
         "models": {
-            "Civic": { "price": "10 Lakh", "launchDate": "1955", "mileage": "20 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "6-wheel" },
-            "Accord": { "price": "10 Lakh", "launchDate": "1976", "mileage": "18 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "CR-V": { "price": "10 Lakh", "launchDate": "1995", "mileage": "24 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "4-wheel" }
+            "Civic": { "price": "10 Lakh", "launchDate": "1955", "mileage": "20 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Accord": { "price": "10 Lakh", "launchDate": "1976", "mileage": "18 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "CR-V": { "price": "10 Lakh", "launchDate": "1995", "mileage": "24 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Honda Cars India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Renault": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Renault India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Force Motors": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "TVS": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Hindustan Motors": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "MG": {
         "models": {
-            "MG ZS EV": { "price": "10 Lakh", "launchDate": "2023", "mileage": "461KM", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "Electric", "wheelType": "6-wheel" }
+            "MG ZS EV": { "price": "10 Lakh", "launchDate": "2023", "mileage": "461KM", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "MG Motor India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Nissan Motor India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Premier": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Tata Motors": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "General Motors India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Kia": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel" }
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Daimler India": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel" },
+            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Prius": { "price": "10 Lakh", "launchDate": "2009", "mileage": "25km/l", "capacity": "6 Seater", "fuelType": "Electric", "wheelType": "6-wheel", "postLink": "#"}
         }
     }
