@@ -5,7 +5,12 @@
             "Toyota Innova Crysta": { "price": "19 Lakh", "launchDate": "May 2016", "mileage": "26 km/l", "capacity": "8 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Toyota Innova Hycross": {"price":"Rs. 19.67 - 30.26 Lakh","launchDate":"28 December, 2022","mileage":"16 to 24km/l","capacity":"8 Seater","fuelType":"Petrol & Hybrid", "wheelType":"4-Wheeler", "postLink":"#" },
             "Toyota Fortuner": { "price": "33 to 51 Lakh", "launchDate": "9 January, 2021", "mileage": "10 to 15 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Toyota Rumion": { "price": "10.29 - 13.68 Lakh", "launchDate": "2023", "mileage": "20 to 26 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Toyota Rumion": { "price": "10.29 - 13.68 Lakh", "launchDate": "2023", "mileage": "20 to 26 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Glanza": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Land Cruiser": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Fortuner Legender": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Hilux": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Toyota Kirloskar India": {
@@ -17,23 +22,23 @@
     },
     "Mahindra": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Mahindra Scorpio": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Mahindra Scorpio N": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Mahindra Thar": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Hyundai": {
         "models": {
-            "Camry": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Corolla": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Prius": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Hyundai Creta Facelift": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Hyundai Creta": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Hyundai Exter": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Maruti Suzuki": {
         "models": {
-            "Maruti Invicto Zeta Plus 7 STR": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Maruti Invicto Zeta Plus 8 STR": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Maruti Invicto Alpha Plus 7 STR": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Maruti Invicto": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Maruti Fronx": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Maruti Grand Vitara": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Ashok Leyland": {
