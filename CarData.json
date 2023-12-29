@@ -4,7 +4,8 @@
             "Toyota Urban Cruiser Hyryder": { "price": "11 Lakh", "launchDate": "September 2022", "mileage": "25 km/l", "capacity": "5 Seater", "fuelType": "Petrol,Diesel,CNG", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Toyota Innova Crysta": { "price": "19 Lakh", "launchDate": "May 2016", "mileage": "26 km/l", "capacity": "8 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Toyota Innova Hycross": {"price":"Rs. 19.67 - 30.26 Lakh","launchDate":"28 December, 2022","mileage":"16 to 24km/l","capacity":"8 Seater","fuelType":"Petrol & Hybrid", "wheelType":"4-Wheeler", "postLink":"#" },
-            "Toyota Fortuner": { "price": "33 to 51 Lakh", "launchDate": "9 January, 2021", "mileage": "10 to 15 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Toyota Fortuner": { "price": "33 to 51 Lakh", "launchDate": "9 January, 2021", "mileage": "10 to 15 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Toyota Rumion": { "price": "10.29 - 13.68 Lakh", "launchDate": "2023", "mileage": "20 to 26 km/l", "capacity": "7 Seater", "fuelType": "Petrol & Diesel", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
     },
     "Toyota Kirloskar India": {
