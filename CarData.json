@@ -24,7 +24,17 @@
         "models": {
             "Mahindra Scorpio": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Mahindra Scorpio N": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
-            "Mahindra Thar": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
+            "Mahindra Thar": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Mahindra XUV500": { "price": "15 Lakh", "launchDate": "22 January 2021", "mileage": "15 km/l", "capacity": "7 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Scorpio": { "price": "12 Lakh", "launchDate": "18 March 2019", "mileage": "14 km/l", "capacity": "7 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Thar": { "price": "14 Lakh", "launchDate": "10 September 2020", "mileage": "13 km/l", "capacity": "4 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra XUV300": { "price": "10 Lakh", "launchDate": "5 July 2018", "mileage": "16 km/l", "capacity": "5 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Bolero": { "price": "11 Lakh", "launchDate": "14 February 2017", "mileage": "12 km/l", "capacity": "7 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Marazzo": { "price": "13 Lakh", "launchDate": "30 May 2019", "mileage": "17 km/l", "capacity": "8 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Alturas G4": { "price": "30 Lakh", "launchDate": "8 November 2018", "mileage": "12 km/l", "capacity": "7 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra KUV100": { "price": "6 Lakh", "launchDate": "3 April 2016", "mileage": "18 km/l", "capacity": "5 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra TUV300": { "price": "9 Lakh", "launchDate": "12 September 2015", "mileage": "15 km/l", "capacity": "7 Seater", "fuelType": "Diesel", "wheelType": "4-wheel", "postLink": "#" },
+            "Mahindra Verito": { "price": "8 Lakh", "launchDate": "20 June 2014", "mileage": "16 km/l", "capacity": "5 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "#" }
         }
     },
     "Hyundai": {
