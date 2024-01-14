@@ -46,7 +46,7 @@
     },
     "Maruti Suzuki": {
         "models": {
-            "Maruti Invicto": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/" },
+            "Maruti Invicto": { "price": "10 Lakh", "launchDate": "1937", "mileage": "25 km/l", "capacity": "6 Seater", "fuelType": "Petrol", "wheelType": "4-wheel", "postLink": "https://www.gymguru.in.net/", "carImg": "https://imgd.aeplcdn.com/664x374/n/cw/ec/147201/invicto-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80" },
             "Maruti Fronx": { "price": "10 Lakh", "launchDate": "1946", "mileage": "22 km/l", "capacity": "6 Seater", "fuelType": "Diesel", "wheelType": "2-wheel", "postLink": "https://www.gymguru.in.net/" },
             "Maruti Grand Vitara": { "price": "10 Lakh", "launchDate": "2003", "mileage": "28 km/l", "capacity": "6 Seater", "fuelType": "CNG", "wheelType": "6-wheel", "postLink": "https://www.gymguru.in.net/" }
         }
